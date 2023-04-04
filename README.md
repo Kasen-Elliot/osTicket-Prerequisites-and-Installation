@@ -8,8 +8,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- osTicket
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
@@ -18,8 +17,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Create Virtual Machine in Azure
-- Connect to Remote Desktop
 - Install/Enable IIS in Windows 
 - Download PHP Manager for IIS
 - Download and Configure osTicket
